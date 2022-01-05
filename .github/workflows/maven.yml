@@ -28,5 +28,5 @@ jobs:
       run: |
           cd target 
           ls -al
-          java -jar StudentWebGrading-spring-1.0-SNAPSHOT.jar
+          java -jar spring-boot-starter-parent-2.6.2.jar
     
