@@ -7,6 +7,7 @@ import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
 @ComponentScan({"com.example.demo.controllers"})
+@ComponentScan({"com.example.demo.data"})
 
 public class Application {
 
